@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bekan Kitaw Mekonen
 
-🎓 Lecturer & Program Coordinator, Computer Science @ Jimma University  
+🔬 Doctoral Researcher, University of Limerick | Ireland
+🎓 Former Lecturer & Program Coordinator, Computer Science @ Jimma University  
 🔬 Researcher in AI, Data Science, Networking, and Emerging Technologies  
 📖 Publications in ML, IoT, VANETs, NLP, and Digital Health  
 🌱 Exploring Quantum-Classical AI & Model-Driven Engineering  
@@ -8,9 +9,9 @@
 ---
 
 ## 📌 About Me
-I am a highly motivated Computer Science lecturer and researcher with expertise in:
+I am a PhD researcher at the University of Limerick (Ireland) with expertise in:
 - **Artificial Intelligence, Machine Learning, NLP, and Data Science**
-- **Networking, IoT, Wireless Communication, and 5G**
+- **Digital thread and data integration, Networking, IoT, Wireless Communication, and 5G**
 - **Software Engineering, Distributed Systems, and Cybersecurity**
 
 ### 🛠️ Skills & Tools
