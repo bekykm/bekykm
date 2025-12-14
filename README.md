@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bekan Kitaw Mekonen
 
-🔬 Doctoral Researcher, University of Limerick | Ireland
+🔬 Doctoral Researcher, University of Limerick, Ireland
 🎓 Former Lecturer & Program Coordinator, Computer Science @ Jimma University  
 🔬 Researcher in AI, Data Science, Networking, and Emerging Technologies  
 📖 Publications in ML, IoT, VANETs, NLP, and Digital Health  
